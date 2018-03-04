@@ -1,6 +1,6 @@
 # Python-Algorithm
 主要是拿python写的一些leetcode上的算法题
-1、2dminonsionList存放的是对python中的二维数组常见的技巧总结；
-2、DPproblem存放的是对动态规划问题的一些思考和总结；
-3、leetcode存放的是刷leetcode题库的一些经典问题和自己的答案；
-4、SortAlgorithm存放的是排序算法自己写的python实现
+#1、2dminonsionList存放的是对python中的二维数组常见的技巧总结；
+#2、DPproblem存放的是对动态规划问题的一些思考和总结；
+#3、leetcode存放的是刷leetcode题库的一些经典问题和自己的答案；
+#4、SortAlgorithm存放的是排序算法自己写的python实现
